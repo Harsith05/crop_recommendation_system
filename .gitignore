@@ -1,5 +1,3 @@
 venv
-crop_model.pkl
-label_encoder.pkl
-scaler.pkl
+
 __pycache__
